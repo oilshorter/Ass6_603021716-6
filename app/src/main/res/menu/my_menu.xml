@@ -7,6 +7,6 @@
         app:showAsAction="always" />
     <item android:id="@+id/menu2"
         android:title="Open Fragment Three"
-        android:icon="@drawable/girl"
+        android:icon="@drawable/boy"
         app:showAsAction="always" />
 </menu>
